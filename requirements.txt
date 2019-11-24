@@ -57,7 +57,7 @@ sqlparse==0.3.0
 sympy==1.4
 text-unidecode==1.2
 tqdm==4.36.1
-Twisted==19.2.1
+Twisted==19.7.0
 txaio==18.8.1
 urllib3==1.25.6
 webencodings==0.5.1
